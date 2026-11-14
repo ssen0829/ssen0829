@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ssen0829/ssen0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm ssen. 👋
 
-Here are some ideas to get you started:
+I'm a 1st-year M.S. student at 🎓 **UESTC** (Class of 2029), studying **AI Infra** and **Distributed Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 你好！我是 ssen 👋
+
+我是 🎓 **电子科技大学** 26级计算机技术硕士研究生，正在学习 **AI Infra** 和 **分布式系统**。
+
+
+</div>
